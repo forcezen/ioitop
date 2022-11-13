@@ -10,7 +10,7 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
 
 ## Run these Commads
 ### Step 1
-     pip install -r requirements.txt
+     pip install -r requirements.txt sss
 ### Step 2
      python manage.py migrate
      
